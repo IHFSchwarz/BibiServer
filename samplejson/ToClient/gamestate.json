@@ -1,0 +1,12 @@
+{
+  "users":{
+    "rünkünkün": {
+      "points": "13"
+    },
+    "blacktab": {
+      "points": "20",
+      "pressedBuzzer": true
+    }
+  },
+  "isBuzzerLocked": true
+}

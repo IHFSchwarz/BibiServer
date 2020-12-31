@@ -1,0 +1,7 @@
+{
+  "method": "getSession",
+  "parameters": {
+    "sid": 1000,
+    "username": "peter"
+  }
+}

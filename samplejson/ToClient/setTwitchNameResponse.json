@@ -1,0 +1,6 @@
+{
+  "methodResponse": "setTwitchName",
+  "parameters": {
+    "url": "nlc_nac"
+  }
+}
